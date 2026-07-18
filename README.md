@@ -22,6 +22,7 @@ offline.
 | `index.html` | The lab — everything inlined, including the verification data and the Python source |
 | `kink_sim.py` | The standalone simulation that produced the verification numbers |
 | `out/` | Its outputs: figures and measured results (`results.json`) |
+| [`CITU_PRD_manuscript_v2.pdf`](CITU_PRD_manuscript_v2.pdf) | The companion manuscript (G. Kranck): confined field energy as inertia, and an exact Z₃ identity underlying the Koide charged-lepton mass relation |
 
 ## Running the simulation yourself
 
