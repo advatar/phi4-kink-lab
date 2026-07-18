@@ -22,7 +22,8 @@ offline.
 | `index.html` | The lab — everything inlined, including the verification data and the Python source |
 | `kink_sim.py` | The standalone simulation that produced the verification numbers |
 | `out/` | Its outputs: figures and measured results (`results.json`) |
-| [`CITU_PRD_manuscript_v2.pdf`](CITU_PRD_manuscript_v2.pdf) | The companion manuscript (G. Kranck): confined field energy as inertia, and an exact Z₃ identity underlying the Koide charged-lepton mass relation |
+| [`CITU_PRD_manuscript_v3.pdf`](CITU_PRD_manuscript_v3.pdf) | The companion manuscript, **v3 — revised following referee review** (reconstructed from the v2 PDF; includes the executed E3 quark-sector result and the unconditional fourth-lepton exclusion) |
+| [`CITU_PRD_manuscript_v2.pdf`](CITU_PRD_manuscript_v2.pdf) | The v2 original (G. Kranck): confined field energy as inertia, and an exact Z₃ identity underlying the Koide charged-lepton mass relation |
 
 ## Running the simulation yourself
 
